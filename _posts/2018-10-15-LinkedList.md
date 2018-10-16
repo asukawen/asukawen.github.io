@@ -1,3 +1,8 @@
+---
+layout: post
+title: "LinkedList"
+date: 2018-10-15
+---
 #LinkedList and Recursion I
 *using python 2*
 ###### Why LinkedList?
